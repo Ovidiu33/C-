@@ -1,0 +1,1 @@
+#include "entitate.h"

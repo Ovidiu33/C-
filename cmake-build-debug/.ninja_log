@@ -1,0 +1,18 @@
+# ninja log v5
+9	432	7106695330925765	CMakeFiles/Biblioteca.dir/Domain/entitate.cpp.obj	b656c1f0a960ac7f
+12	432	7106709300702699	CMakeFiles/Biblioteca.dir/Validator/validate.cpp.obj	d927da5b2aff4a7f
+4	494	7106725198245578	CMakeFiles/Biblioteca.dir/main.cpp.obj	51cb8acff69736c2
+8	721	7106716416919616	CMakeFiles/Biblioteca.dir/Repo/repo.cpp.obj	8bcbab06f1063c70
+14	612	7106716415839309	CMakeFiles/Biblioteca.dir/Tests/tests.cpp.obj	c2b84ea78a49451
+576	724	7106725916641280	Biblioteca.exe	df221853ac7baa3c
+20	799	7106716417704883	CMakeFiles/Biblioteca.dir/Business/service.cpp.obj	44144bc026a43af8
+3	576	7106725915200821	CMakeFiles/Biblioteca.dir/Console/ui.cpp.obj	751efa0618b1fa91
+8	521	7351679679165347	build.ninja	8adf87eaa9d9a976
+11	936	7351679689441898	CMakeFiles/Biblioteca.dir/Business/service.cpp.obj	44144bc026a43af8
+30	1710	7351679692279511	CMakeFiles/Biblioteca.dir/Repo/repo.cpp.obj	8bcbab06f1063c70
+3	1711	7351679692452191	CMakeFiles/Biblioteca.dir/Validator/validate.cpp.obj	d927da5b2aff4a7f
+7	1711	7351679696896684	CMakeFiles/Biblioteca.dir/Tests/tests.cpp.obj	c2b84ea78a49451
+26	1720	7351679696916507	CMakeFiles/Biblioteca.dir/Domain/entitate.cpp.obj	b656c1f0a960ac7f
+21	1720	7351679696951912	CMakeFiles/Biblioteca.dir/main.cpp.obj	51cb8acff69736c2
+16	1721	7351679697058864	CMakeFiles/Biblioteca.dir/Console/ui.cpp.obj	751efa0618b1fa91
+1721	2000	7351679700086914	Biblioteca.exe	df221853ac7baa3c
